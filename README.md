@@ -21,6 +21,7 @@
 - [`b47`](https://github.com/ba1chev/b47) — Custom POSIX-compliant Unix shell with advanced parsing, job control, and process management ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 - [`XDP47`](https://github.com/ba1chev/XDP47) — Edge rollout orchestrator for safe, staged software updates across distributed devices ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - [`Probabilistic Quadrature`](https://github.com/ba1chev/Probabilistic-quadrature) — Probabilistic numerical integration techniques for estimating complex integrals ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- [`Cloud Audit`](https://github.com/ba1chev/Cloud-Audit) — Statistical analysis of cloud vs. on-premise infrastructure across 48 hypotheses ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - [`Stochastic Agent`](https://github.com/ba1chev/StochasticAgent) — In progress... ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
  
 ---
