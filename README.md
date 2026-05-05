@@ -15,13 +15,13 @@
 
 ## 🚀 Projects
 
-- [`Logic Crusher`](https://gitlab.com/b4ich3v/Logic-Crusher) — Boolean algebra tool for expression minimization, visualization, and logical analysis ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- [`Yox47`](https://gitlab.com/b4ich3v/Yox47) — Statically-typed programming language with tokenization and AST-based parsing ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![x86 ASM](https://img.shields.io/badge/-x86%20ASM-6E4C13?logo=gnu&logoColor=white)
-- [`Battle Of 64`](https://gitlab.com/b4ich3v/Battle-Of-64) — Low-level C++ chess engine with alpha-beta search and custom memory management ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-- [`b47`](https://gitlab.com/b4ich3v/b47) — Custom POSIX-compliant Unix shell with advanced parsing, job control, and process management ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-- [`XDP47`](https://gitlab.com/b4ich3v/XDP47) — Edge rollout orchestrator for safe, staged software updates across distributed devices ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- [`Probabilistic Quadrature`](https://gitlab.com/b4ich3v/Probabilistic-quadrature) — Probabilistic numerical integration techniques for estimating complex integrals ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- [`Stochastic Agent`](https://gitlab.com/b4ich3v/StochasticAgent) — In progress... ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+- [`Logic Crusher`](https://github.com/ba1chev/Logic-Crusher) — Boolean algebra tool for expression minimization, visualization, and logical analysis ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- [`Yox47`](https://github.com/ba1chev/Yox47) — Statically-typed programming language with tokenization and AST-based parsing ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![x86 ASM](https://img.shields.io/badge/-x86%20ASM-6E4C13?logo=gnu&logoColor=white)
+- [`Battle Of 64`](https://github.com/ba1chev/Battle-Of-64) — Low-level C++ chess engine with alpha-beta search and custom memory management ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+- [`b47`](https://github.com/ba1chev/b47) — Custom POSIX-compliant Unix shell with advanced parsing, job control, and process management ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+- [`XDP47`](https://github.com/ba1chev/XDP47) — Edge rollout orchestrator for safe, staged software updates across distributed devices ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- [`Probabilistic Quadrature`](https://github.com/ba1chev/Probabilistic-quadrature) — Probabilistic numerical integration techniques for estimating complex integrals ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- [`Stochastic Agent`](https://github.com/ba1chev/StochasticAgent) — In progress... ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
  
 ---
 
