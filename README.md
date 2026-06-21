@@ -1,5 +1,4 @@
-# 🛠 Yoan Baychev — DevOps | Systems | Low-Level | {AI
-, ML, DL}
+# 🛠 Yoan Baychev — DevOps | Systems | Low-Level | {AI, ML, DL}
 ## 🧩 About me:
 - ⚡ Passionate about mastering systems from the hardware up to high-level abstractions
 - 🎯 Focused on building efficient, scalable, and production-oriented systems
