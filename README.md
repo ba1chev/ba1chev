@@ -23,8 +23,8 @@
 - [`Probabilistic Quadrature`](https://github.com/ba1chev/Probabilistic-quadrature) — Probabilistic numerical integration techniques for estimating complex integrals ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - [`Cloud Audit`](https://github.com/ba1chev/Cloud-Audit) — Statistical analysis of cloud vs. on-premise infrastructure across 48 hypotheses ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - [`Chimera-47`](https://github.com/ba1chev/Chimera-47) — Behavioral malware classifier — linear SVMs, multinomial softmax, Markov chains ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- [`Stochastic Agent`](https://github.com/ba1chev/StochasticAgent) — In progress... ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 - [`Machine-Learning-Algorithms`](https://github.com/ba1chev/Machine-Learning-Algorithms) — Classic ML algorithms implemented from scratch in C++17 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+- [`Stochastic Agent`](https://github.com/ba1chev/StochasticAgent) — In progress... ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
  
 ---
 
