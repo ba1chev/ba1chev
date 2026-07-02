@@ -7,7 +7,7 @@
 - ⚙️ Hands-on with low-level programming (C, C++, x86 Assembly) including register-level and hardware-oriented development
 - 🚀 Experience with performance optimizations: SIMD/vectorization (XMM/YMM), cache-aware design, and low-level tuning
 - 🧱 Strong understanding of object-oriented design and software architecture principles
-- 🤖 Machine/Deep learning fundamentals and probabilistic modeling
+- 🤖 Practical experience with machine learning fundamentals including regression, classification, clustering, dimensionality reduction, feature engineering, and probabilistic modeling
 - 🧠 Strong interest in algorithms, performance engineering, and writing efficient code
 - 🌱 Continuously exploring OS internals, CPU architecture, and system performance
 
