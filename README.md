@@ -25,7 +25,8 @@
 - [`Chimera-47`](https://github.com/ba1chev/Chimera-47) — Behavioral malware classifier — linear SVMs, multinomial softmax, Markov chains ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - [`Machine-Learning-Algorithms`](https://github.com/ba1chev/Machine-Learning-Algorithms) — Classic ML algorithms implemented from scratch in C++17 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 - [`Stochastic-Assistant`](https://github.com/ba1chev/StochasticAgent) — From-scratch C++17 probability library: σ-algebras, distributions, joint distributions ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
- 
+- [`NeuroC47`] (https://github.com/ba1chev/NeuroC47) - In progress ... ![C](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+
 ---
 
 ## 💻 Technologies
