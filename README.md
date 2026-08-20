@@ -90,3 +90,5 @@
 ![Kustomize](https://img.shields.io/badge/-Kustomize-326CE5?logo=kubernetes&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-EB5424?logo=oauth&logoColor=white)
+
+## 🧩 Frameworks & Libraries
