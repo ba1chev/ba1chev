@@ -98,6 +98,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-2C5BB4?logo=python&logoColor=white)
+![HTTPX](https://img.shields.io/badge/-HTTPX-007ACC?logo=python&logoColor=white)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
