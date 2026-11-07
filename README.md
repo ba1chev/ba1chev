@@ -1,4 +1,4 @@
-# 🛠 Yoan Baychev — AIOps | Systems | Low-Level | AWS | {AI, ML, DL}
+# 🛠 Yoan Baychev —  Systems | Low-Level | AWS | {AI, ML, DL}
 
 ## 🧩 About me:
 - ⚡ Passionate about mastering systems from the hardware up to high-level abstractions
