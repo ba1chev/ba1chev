@@ -27,6 +27,7 @@
 - [`Stochastic-Assistant`](https://github.com/ba1chev/StochasticAgent) — From-scratch C++17 probability library: σ-algebras, distributions, joint distributions ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 - [`Vuln47`](https://github.com/ba1chev/Vuln47) — Graph Neural Network (GINE) that detects vulnerabilities in C/C++ functions from their AST ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - [`State-Exam-Preparation-FMI`](https://github.com/ba1chev/State-Exam-Preparation-FMI) - Developed topics and solved problems for the state exam at FMI ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+- [`Vela47`](https://github.com/ba1chev/Vela47) - todo ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ---
 
